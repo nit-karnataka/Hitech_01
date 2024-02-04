@@ -12,7 +12,7 @@
 #define WIFI_SSID "Mubeen Ahmed"
 
 #define WIFI_PASSWORD "mubeen777"
-
+njjjj
 #define LED 2
 
 void setup() {
