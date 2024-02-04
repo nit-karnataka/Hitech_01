@@ -10,7 +10,7 @@ abcd
 #define FIREBASE_AUTH "Ypf2lgSXcxhrb5dqz6K75ebJtXSz5Zenz3ggFFux"
 
 #define WIFI_SSID "Mubeen Ahmed"
-
+swqaas
 #define WIFI_PASSWORD "mubeen777"
 
 #define LED 2
